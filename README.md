@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @FizzyFriday
-- I create games as a hobby
+👋 Hi, I’m FizzyFriday
 
-- I have a public game collection that anyone is able to play at FizzyFriday.github.io
+and I create games as a hobby
+
+I have a public game collection that anyone is able to play at FizzyFriday.github.io
 
 <!---
 FizzyFriday/FizzyFriday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
