@@ -1,4 +1,4 @@
-##👋 ##Hi, I’m FizzyFriday \
+👋 Hi, I’m FizzyFriday
 
 I create games as a hobby
 
