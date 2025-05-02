@@ -19,7 +19,7 @@ I'm Fizzy and I'm currently studying Software Engineering at University. I'm int
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FizzyFriday&layout=compact&theme=tokyonight" height="170"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=FizzyFriday&show_icons=true&theme=tokyonight" height="170"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=FizzyFriday&show_icons=true&theme=tokyonight&title_color=FFFFFF)" height="170"/>
 </p>
 
 
